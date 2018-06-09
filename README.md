@@ -1,13 +1,12 @@
+This repository is forked from [conradsnicta/armadillo-code](https://github.com/conradsnicta/armadillo-code)<br />
+Some changes were made to make Armadillo repo smaller. This repository is created for the purpose of building C++ extension module for LightTwinSVM project. <br />
 
-
-* **Armadillo source code repository has moved to:**
-[**gitlab.com/conradsnicta/armadillo-code**](http://gitlab.com/conradsnicta/armadillo-code)
-
-* **please update your bookmarks :)**
-
-##
-
-**Q:** Why was the repository moved?  
-**A:** We moved the repository to [GitLab](https://gitlab.com), as Microsoft has acquired GitHub.  
-Microsoft is a nefarious entity with a long and consistent history of [unconscionable behaviour](https://jacquesmattheij.com/what-is-wrong-with-microsoft-buying-github).  
-In other words, Microsoft can and will screw you over if its shareholders stand to benefit in the short/medium term.
+Armadillo: C++ Library for Linear Algebra & Scientific Computing <nr />
+Armadillo is licensed under the Apache License, Version 2.0 <br />
+http://arma.sourceforge.net<br />
+http://gitlab.com/conradsnicta/armadillo-code <br />
+<br />
+Copyright 2008-2018 Conrad Sanderson (http://conradsanderson.id.au) <br />
+Copyright 2008-2016 National ICT Australia (NICTA)<br />
+Copyright 2017-2018 Arroyo Consortium<br />
+Copyright 2017-2018 Data61, CSIRO<br />
